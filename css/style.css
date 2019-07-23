@@ -1,0 +1,16 @@
+main {
+	align-items: center;
+	text-align: center;
+}
+
+img {
+	padding: 20px 0;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}
+
+.imgs {
+	justify-content: space-between;
+	padding: 5px 80px;
+}
