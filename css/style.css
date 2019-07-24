@@ -1,9 +1,11 @@
 main {
 	align-items: center;
 	text-align: center;
+	background-color: skyblue;
 }
 
 img {
+
 	padding: 20px 0;
 	justify-content: center;
 	align-items: center;
